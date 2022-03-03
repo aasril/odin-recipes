@@ -1,0 +1,15 @@
+body {
+  max-width: 600px;
+  margin: auto;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: auto;
+}
+
+.title {
+  text-align: center;
+}
